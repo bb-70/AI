@@ -8,6 +8,10 @@ Each folder contains files with detailed information.
 
 ## Pacman Project
 - https://courses.cs.washington.edu/courses/cse473/20wi/assignments/search.html
+- DFS
+- BFS
+- UCS
+- A*
 
 ## CSP
 - DFS with backtracking CSP
